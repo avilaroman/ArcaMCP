@@ -1,5 +1,28 @@
 # ARCA MCP (Model Context Protocol) para AFIP/ARCA
 
+## Identidad institucional
+
+<p align="center">
+  <a href="https://www.arca.gob.ar/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.afip.gob.ar/landing/default/img/logo_arca.svg" alt="Logo oficial de ARCA" height="90" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.afip.gob.ar/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.afip.gob.ar/images/logo-afip.svg" alt="Logo institucional AFIP" height="90" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.argentina.gob.ar/arca" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.argentina.gob.ar/sites/default/files/styles/jumbotron/public/2024-01/arca-portada.jpg" alt="Imagen institucional de ARCA" width="48%" />
+  </a>
+  <a href="https://www.afip.gob.ar/ws/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.afip.gob.ar/images/servicios-web.jpg" alt="Imagen institucional de servicios web AFIP" width="48%" />
+  </a>
+</p>
+
+> ℹ️ Las imágenes referencian recursos institucionales públicos de ARCA/AFIP y pueden cambiar de URL o disponibilidad según actualizaciones de los portales oficiales.
+
 Este proyecto implementa un servidor MCP (Model Context Protocol) orientado a integrarse con AFIP (Argentina) y automatizar tareas claves del flujo de facturación electrónica y consulta de padrones. Aprovecha la SDK oficial de AFIP (`@afipsdk/afip.js`) y automatizaciones para:
 
 - Generar y gestionar certificados X.509 (dev y producción).
